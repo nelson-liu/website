@@ -1,0 +1,20 @@
+html {
+    background-color: #fefefe;
+}
+
+body p, li {
+    color: #454545;
+    font-size: 20px;
+}
+
+body {
+    font-family: "Palatino, Georgia, 'Times New Roman', serif"
+}
+
+.row:not(#publications) a {
+    text-decoration: underline;
+}
+
+.image-link {
+    text-decoration: none !important;
+}
