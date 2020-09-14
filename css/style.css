@@ -8,7 +8,7 @@ body p, li {
 }
 
 body {
-    font-family: "Palatino, Georgia, 'Times New Roman', serif"
+    font-family: Palatino, "EB Garamond", Georgia, "Times New Roman", serif
 }
 
 .row:not(#publications) a {
